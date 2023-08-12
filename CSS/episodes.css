@@ -1,0 +1,348 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 6px;
+}
+
+/* body */
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #04052e;
+}
+
+/* Navbar*/
+
+nav {
+  width: 100%;
+  height: auto;
+  font-family: "Montserrat Alternates", sans-serif;
+  background-color: #02010a;
+  color: #fff;
+  padding-top: 0.5rem;
+  padding-bottom: 0.25rem;
+  position: fixed;
+  z-index: 500;
+}
+
+.top-section {
+  width: 100%; /* for responsive */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#logo-box .logo {
+  color: #e21221;
+  font-weight: 70rem;
+  font-size: 2.5rem;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+/* to remove the line under the links */
+a {
+  text-decoration: none;
+}
+
+#nav-links {
+  float: right;
+  margin-right: -7rem;
+}
+
+#logo-box {
+  float: left;
+  padding: 0.1rem;
+  margin-left: -7rem;
+}
+
+/* for the compatibility of the link and logo parts with each other */
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+#link-box .nav-item {
+  float: left; 
+  margin-left: 7rem;
+}
+
+#link-box .nav-link {
+  color: #fff;
+  font-size: 1.6rem;
+  font-weight: 40rem;
+  display: block;
+  padding-top: 1rem;
+  letter-spacing: 0.1rem;
+  transition: color 0.4s;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#link-box .nav-link:hover {
+  color: #a60b18;
+}
+
+/* contact */
+
+#content {
+  background-color: #140152;
+  height: auto;
+  padding-top: 12.5rem;
+  padding-bottom: 7.5rem;
+}
+
+.contact-box {
+  margin-bottom: 7.5rem;
+  height: auto;
+  width: auto;
+}
+.text-box {
+  margin-bottom: 7.5rem;
+  height: auto;
+  width: auto;
+}
+.poster-box {
+  height: auto;
+  width: auto;
+  border: 0.2rem solid #a60b18;
+  border-radius: 5rem;
+  padding: 3rem 3rem 4rem 3rem;
+  margin-top: 5rem;
+}
+.img-poster-left {
+  float: left;
+  margin-right: 10rem;
+  height: auto;
+  width: auto;
+}
+
+.img-poster-right {
+  float: right;
+  margin-left: 10rem;
+  height: auto;
+  width: auto;
+}
+
+.img-double {
+  float: inline-start;
+  height: auto;
+  width: auto;
+  margin-left: 15rem;
+  margin-bottom: 2.5rem;
+}
+
+.img-right {
+  float: right;
+  margin-left: 7rem;
+  height: auto;
+  width: auto;
+  margin-bottom: 2.5rem;
+}
+
+.img-left {
+  float: left;
+  margin-right: 7rem;
+  height: auto;
+  width: auto;
+  margin-bottom: 2.5rem;
+}
+.text {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.8rem;
+  color: white;
+  text-align: justify;
+  font-style: italic;
+  text-indent: 3rem;
+  word-spacing: 0.1rem;
+}
+.text2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.8rem;
+  color: white;
+  text-align: justify;
+  font-style: italic;
+  text-indent: 3rem;
+  word-spacing: 0.1rem;
+}
+/* ilk harf */
+.text2::first-letter {
+  font-size: 3.6rem;
+}
+.link-page-end {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 1.8rem;
+  float: right;
+  color: #e21221;
+}
+
+/* form */
+
+.big-fieldset {
+  padding: 0.5rem 1.5rem;
+}
+.short-fieldset {
+  padding: 0.3rem 0.9rem;
+}
+
+.big-legend {
+  color: #e21221;
+  font-size: 2rem;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.short-legend {
+  color: white;
+  font-size: 1.6rem;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.input1 {
+  color: white;
+  font-size: 1.8rem;
+}
+
+.name-input {
+  background-color: transparent;
+  border: 0.1rem solid white;
+  height: 2.2rem;
+  color: white;
+  text-align: center;
+}
+
+.name-input::after {
+  background-color: transparent;
+  border: 0.1rem solid white;
+  height: 2.2rem;
+  color: white;
+  text-align: center;
+}
+
+.radio-feel {
+  color: white;
+  margin-right: 0.2rem;
+}
+.radio {
+  color: white;
+  font-size: 1.4rem;
+  margin-right: 1.5rem;
+}
+
+.selection-input {
+  background-color: white;
+  height: 2.5rem;
+}
+
+.send {
+  float: right;
+  padding: 0.8rem 2rem;
+  background-color: transparent;
+  border: 0.1rem solid #e21221;
+  font-size: 1.4rem;
+  border-radius: 2rem;
+  color: white;
+}
+.send:hover {
+  background-color: #e21221;
+  color: white;
+}
+
+.radio-right {
+  color: white;
+  font-size: 1.6rem;
+  float: right;
+  margin-right: 2.5rem;
+}
+.check-button {
+  float: right;
+  margin-right: 1rem;
+  height: 2.2rem;
+}
+
+.big-line {
+  border: none; 
+  border-top: 0.1rem solid white; 
+  border-radius: 1rem;
+  margin-right: 3rem;
+}
+
+.content-link {
+  color: #e21221;
+}
+.content-link:hover {
+  color: white;
+}
+
+#special-design {
+  background-color: #04052e;
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  color: #fff;
+  text-align: center;
+}
+
+/* Responsive design */
+
+@media (min-width: 576px) {
+  /* mobile */
+
+  .top-section {
+    max-width: 540px;
+  }
+
+  html {
+    font-size: 7px;
+  }
+}
+
+@media (min-width: 768px) {
+  .top-section {
+    max-width: 720px;
+  }
+
+  html {
+    font-size: 8px;
+  }
+
+  .col {
+    width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  /* tablet */
+
+  .top-section {
+    max-width: 960px;
+  }
+
+  html {
+    font-size: 9px;
+  }
+
+  .col {
+    width: 33.333%;
+  }
+}
+
+@media (min-width: 1200px) {
+  /* web */
+
+  .top-section {
+    max-width: 1140px;
+  }
+
+  html {
+    font-size: 10px;
+  }
+}
