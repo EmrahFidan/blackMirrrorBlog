@@ -35,9 +35,9 @@ I made a website with my blog posts about my favorite episodes of my favorite se
 
 <h4 style="color: #94d2bd;"> BLACK MIRROR </h4>
 
-- Charlie Brooker tarafından yaratılmış bir İngiliz bilim kurgu antoloji dizisidir. Dizi, modern teknolojinin ve toplumun karanlık ve genellikle distopik yönlerini keşfeder. Her bölüm, insan davranışı, ilişkiler ve toplumun genelinde teknolojik ilerlemelerin olası sonuçlarını inceleyen bağımsız bir hikaye içerir.
+- A British science fiction anthology series created by Charlie Brooker. The series discovers the dark and often dystopian aspects of modern technology and society. Each chapter contains an independent story that examines human behavior, relationships, and possible consequences of technological advances across society.
 
-- Dizi adı olan "Black Mirror" (Siyah Ayna), akıllı telefonlar, tabletler ve televizyonlar gibi cihazlarımızın yansıtıcı ekranlarına atıfta bulunur. Teknolojiyle etkileşime girdiğimizde genellikle toplumun daha karanlık yönlerini yansıttıkları düşünülen bu cihazlar, dizinin temel temasını oluşturur. Dizi, teknolojiye olan artan bağımlılığımızın etik ve ahlaki sonuçlarını vurgulayan düşündürücü ve sıkça ürkütücü hikayeleriyle ünlüdür.
+- The series name "Black Mirror" ( Black Mirror) refers to the reflective screens of our devices such as smartphones, tablets and televisions. These devices, which are generally thought to reflect the darker aspects of society when we interact with technology, form the basic theme of the series. The series is famous for its thought-provoking and often spooky stories that emphasize the ethical and moral consequences of our growing dependence on technology.
 
 <h4 style="color: #94d2bd;"> If you want to watch the show: </h4>
 <a href="https://www.netflix.com/title/70264888" style="color: #e76f51;">Netflix - BM</a>
