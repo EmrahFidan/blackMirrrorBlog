@@ -1,15 +1,36 @@
+<h1 align="center">
+<br>
+🪞 Black Mirror
+</h1>
 
-![HTML](https://img.shields.io/badge/HTML-5-orange.svg) ![CSS](https://img.shields.io/badge/CSS-3-blue.svg) 
-[![Developed with Visual Studio Code](https://img.shields.io/badge/Developed%20with-Visual%20Studio%20Code-purple)](https://code.visualstudio.com/)
-<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
-<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+<h3 align="center">
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-white.svg?logo=github&style=social"/>
   </a>
+  <a href="https://www.w3.org/TR/html52/" target="_blank">
+  <img alt="HTML 5" src="https://img.shields.io/badge/HTML-5-orangered.svg"/>
+</a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+  <img alt="CSS 3" src="https://img.shields.io/badge/CSS-3-darkblue.svg"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img alt="Developed with Visual Studio Code" src="https://img.shields.io/badge/Developed%20with-Visual%20Studio%20Code-purple"/>
+</a>
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/blackMirrrorBlog/tree/main">
+    <img alt="License" src="https://img.shields.io/github/license/PritamSarbajna/tourism-website?color=darkred"/>
+  </a>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/" >
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&style=social"/>
+  </a>
+</h3>
+<br>
 
-
-<h1 style="color: #219ebc;"> 🪞 Black Mirror </h1>
 
 ![black-mirror](https://github.com/EmrahFidan/educationApp/assets/114583209/f4b6b9aa-6438-4d09-a42e-d83a380da3c7)
+
+
+<br>
+<br>
 
 I made a website with my blog posts about my favorite episodes of my favorite series and I just used html and Css. Since I tried resppponsive design for the first time, I created a design with responsive design on my blog pages, though not on every page. You can review the website online from the Add section.
 
