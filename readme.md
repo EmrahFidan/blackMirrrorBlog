@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
 <br>
 🪞 Black Mirror
@@ -32,14 +34,17 @@
 <br>
 <br>
 
-I made a website with my blog posts about my favorite episodes of my favorite series and I just used html and Css. Since I tried resppponsive design for the first time, I created a design with responsive design on my blog pages, though not on every page. You can review the website online from the Add section.
+#### My Blog about Favorite TV Series Episodes
 
+This project showcases my journey into creating a personal blog where I share my thoughts and reviews on my favorite episodes from beloved TV series. As a beginner in web development, I relied on HTML and CSS to bring this blog to life. While I experimented with responsive design for the first time, I must admit that not every page on my blog is fully responsive. 
 
-<h2 style="color: #0081a7;"> Features </h2>
+### Project Highlights:
 
-- HTML, CSS
-- Half-responsive
-- I wrote the blogs completely
+- HTML and CSS Usage: I've utilized HTML and CSS to create a visually appealing and content-rich blog that allows me to express my passion for TV series.
+
+- Responsive Design: Despite being new to responsive design, I've implemented it in certain sections of my blog to ensure that the content looks great on various devices and screen sizes.
+  
+- I wrote the blogs in their entirety: Feel free to explore my blog and read my articles about my favorite TV series episodes. While not every page is responsive, I've put effort into creating an engaging reading experience.
 
 
 
@@ -72,14 +77,9 @@ I made a website with my blog posts about my favorite episodes of my favorite se
 
 <h2 style="color: #0081a7;"> Lessons Learned </h2>
 
-HTML and CSS are two vital technologies in creating modern internet experiences. HTML is used to specify the structural components of web pages. CSS is used to determine the visual design of web pages. However, HTML and CSS are not sufficient in web site design. They just create simple levels of web requests and generally become designd setters. Javascript, php and framework should be used for the more advanced web request. 
+HTML and CSS are two essential technologies for creating modern web experiences. HTML is used to specify the structural components of web pages. CSS is used to specify the visual design of web pages. However, HTML and CSS are not sufficient for website design. They only create simple layers of web requests and generally become design setters. Javascript, php and frameworks should be used for more advanced web requirements. 
 
-Concepts such as Responsive design (sensitive design ) also emerge. This is an improved approach to ensure that web pages are displayed properly on different devices and screen sizes. I had a little trouble giving this feature to my code, I have to improve myself.
-
-<h2 style="color: #0081a7;"> Thanks </h2>
-
-- [@EmrahFidan](https://github.com/EmrahFidan) for writing, research, design, and developer. 
-
+Concepts such as responsive design are also emerging. This is an improved approach to ensuring that web pages are displayed correctly on different devices and screen sizes. I had a bit of trouble getting my code to do this, I need to get better at it.
 
 
 <h2 style="color: #0081a7;"> Feedback </h2>
